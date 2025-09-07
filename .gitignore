@@ -25,3 +25,7 @@ dist-ssr
 
 # Environment variables
 .env
+
+# SQL 
+db-function.sql
+db.sql
