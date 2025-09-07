@@ -1,0 +1,16 @@
+export { default as Planilla } from "./Planilla";
+export { default as FilaViaje } from "./FilaViaje";
+export { default as FilaGasto } from "./FilaGasto";
+export { default as ConfirmDeleteModal } from "./ConfirmDeleteModal";
+export { default as SelectDueños } from "./SelectDueños";
+export { default as ResumenPlanilla } from "./ResumenPlanilla";
+export { default as PlanillaHeader } from "./PlanillaHeader";
+export { default as PlanillaTable } from "./PlanillaTable";
+export { default as PlanillaModals } from "./PlanillaModals";
+export { default as HistorialPlanillas } from "./HistorialPlanillas";
+export { default as HistorialFilters } from "./HistorialFilters";
+export { default as HistorialTable } from "./HistorialTable";
+export { default as PlanillaDetalle } from "./PlanillaDetalle";
+export { default as ResumenDueno } from "./ResumenDueno";
+export { default as ResumenFilters } from "./ResumenFilters";
+export { default as ResumenTable } from "./ResumenTable";
