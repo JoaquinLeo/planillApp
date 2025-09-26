@@ -17,13 +17,13 @@ export default function ResumenFilters({
         id="start-date"
         label="Fecha de Inicio"
         value={startDate}
-        onChange={(e) => setStartDate(e.target.value)}
+        onChange={setStartDate}
       />
       <InputFecha
         id="end-date"
         label="Fecha de Fin"
         value={endDate}
-        onChange={(e) => setEndDate(e.target.value)}
+        onChange={setEndDate}
       />
       <div>
         <label htmlFor="chofer-select" className="block text-sm font-medium text-gray-700 mb-1">Chofer</label>
