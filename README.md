@@ -4,18 +4,21 @@
 ![Frontend](https://img.shields.io/badge/frontend-React%2019-informational)
 ![Backend](https://img.shields.io/badge/backend-Supabase-lightgrey)
 
-Aplicación web para que choferes registren viajes y gastos para que sus dueños controlen la operación.
+Aplicación web para la gestión de viajes y gastos en empresas de remisería. 
+Permite a los choferes registrar su actividad diaria y a los dueños supervisar la operación mediante un dashboard con filtros y reportes.
+
+**Demo en vivo:** https://planill-app.vercel.app/
 
 ![Captura de la creación de planillas para choferes](./screenshot1.png)
 ![Captura del historial de planillas del chofer](./screenshot2.png)
 ![Captura del dashboard del dueño para revisar las planillas de sus choferes](./screenshot3.png)
 
-**Demo en vivo:** https://planill-app.vercel.app/
+
 
 ## 📋 Tabla de contenido
 
-1. [Features](#features)
-2. [Tecnologías](#tech-stack)
+1. [Funcionalidades](#Funcionalidades)
+2. [Tecnologías](#Tecnologías)
 3. [Arquitectura](#arquitectura-del-sistema)
 4. [Instalación](#instalación-y-ejecución-local)
 5. [Despliegue](#despliegue)
@@ -24,7 +27,7 @@ Aplicación web para que choferes registren viajes y gastos para que sus dueños
 8. [Contacto](#contacto)
 9. [Licencia](#licencia)
 
-## Features
+## Funcionalidades
 
 - **Autenticación de Usuarios:** Registro e inicio de sesión seguro mediante Supabase Auth.
 - **Roles Diferenciados:** Interfaz separada para choferes y dueños con permisos específicos.
@@ -33,7 +36,7 @@ Aplicación web para que choferes registren viajes y gastos para que sus dueños
 - **Dashboard para Dueños:** Resúmenes de actividad de choferes, con filtros por fecha y chofer.
 - **Relaciones Chofer‑Dueño:** Sistema de invitaciones para vincular perfiles.
 
-## Tech Stack
+## Tecnologías
 
 **Frontend:**
 - React 19 + Vite
