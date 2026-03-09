@@ -4,9 +4,11 @@
 ![Frontend](https://img.shields.io/badge/frontend-React%2019-informational)
 ![Backend](https://img.shields.io/badge/backend-Supabase-lightgrey)
 
-Aplicación web para que choferes registren viajes y gastos y dueños controlen la operación. Perfecta como demo de habilidades en React, Vite y Supabase.
+Aplicación web para que choferes registren viajes y gastos para que sus dueños controlen la operación.
 
-![Captura del dashboard](./screenshot.png)
+![Captura de la creación de planillas para choferes](./screenshot1.png)
+![Captura del historial de planillas del chofer](./screenshot2.png)
+![Captura del dashboard del dueño para revisar las planillas de sus choferes](./screenshot3.png)
 
 **Demo en vivo:** https://planill-app.vercel.app/
 
